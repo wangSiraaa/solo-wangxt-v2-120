@@ -23,3 +23,9 @@ venv/
 __pycache__/
 .pytest_cache/
 .DS_Store
+
+# TeachLoc
+backend/app/teachloc.db
+backend/app/data/
+frontend/dist/
+*.mseed
